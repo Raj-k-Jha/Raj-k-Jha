@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raj.
-- 👀 I’m a NOOB Coder. 
+- 👀 I’m a Coder. 
 - 🌱 I’m currently learning Backend 💻.
 - 🔗 Reach me via Linkedin : https://www.linkedin.com/in/raj-kumar-jha-699683196
 
