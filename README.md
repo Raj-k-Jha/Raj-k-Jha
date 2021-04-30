@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raj.
-- 👀 I’m a Coder. 
-- 🌱 I’m currently learning Backend 💻.
+- 👋 Namaskar, Bonjour, Hola, Zdravstvuyte, Nǐn hǎo, Salve, Konnichiwa, Guten Tag, Olá, Anyoung haseyo, Asalaam alaikum, Goedendag, Dzień dobry, Merhaba, God dag, Shalom, Selamat siang, Yassas I’m Raj.
+- 👀 I’m a Student and learning Coding. 
+- 🌱 Right Now I am learning Backend 💻.
 - 🔗 Reach me via Linkedin : https://www.linkedin.com/in/raj-kumar-jha-699683196
 
 <!---
